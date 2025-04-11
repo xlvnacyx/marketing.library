@@ -13,9 +13,22 @@ icon: LiListOrdered
 [[Best possible time to be a writer]]:
 Zierer, Francis, “The best possible time to be a writer,” Creator Spotlight, n.d., https://www.creatorspotlight.com/p/leigh-stein.
 
+## h
+
+[[How to create habit-forming content]]:
+Wolverton, Brad, “How to create habit-forming content,” Newsletter Examples, March 17, 2025, https://www.newsletterexamples.co/p/how-to-create-habit-forming-content
 ## l
 
+[[Laddermania]]:
 Yasmin A. Majeed, “Laddermania,” The Dirtyverse, March 10, 2025, https://dirt.fyi/article/2025/03/laddermania 
+
+## p
+
+[[Perpetual - The Major Shift of Media]]:
+Ryan, Adam, “Perpetual: The Major Shift of Media,” Workweek, March 6, 2025, https://workweek.com/2025/03/06/perpetual-the-major-shift-of-media/
+
+[[Ponzi Platform]]:
+Ryan, Adam, “The Ponzi Platform,” Workweek, October 7, 2022, https://workweek.com/2022/10/07/the-ponzi-platform/
 ## s
 
 [[State of Gamification Pt. 1]]:
@@ -32,6 +45,8 @@ Ryan K. Rigney, “What Can AAA Games Marketers Learn From Indies?,” Push to T
 [[Why this agency launched a creator collective]]:
 Zierer, Francis, “Why this agency launched a creator collective,” Creator Spotlight, March 28, 2025, https://www.creatorspotlight.com/p/kyle-sheldon.
 
+[[Worst Part of Media Businesses]]:
+Ryan, Adam, “The Worst Part of Media Businesses,” Workweek, February 8, 2023, https://workweek.com/2023/02/08/the-worst-part-of-media-businesses/
 ## # 
 
 [[125 days to reach $10k in a month]]:
