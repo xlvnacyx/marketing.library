@@ -2,6 +2,10 @@
 journal: true
 icon: LiNewspaper
 homepage: https://www.newsletterexamples.co
+tags:
+  - library
+  - publication
+  - newsletter
 ---
 
 # articles 

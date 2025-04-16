@@ -1,12 +1,13 @@
 ---
-book card: true
+book: true
 category: book
 icon: LiBookOpen
-book: 
-author(s): 
+authors: 
 citation: 
 keywords: 
 tags:
+  - library
+  - book
 ---
 
 > [!abstract]- Document

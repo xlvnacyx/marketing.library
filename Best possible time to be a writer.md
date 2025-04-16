@@ -2,13 +2,16 @@
 article card: true
 icon: LiNotepadText
 category: article
-author(s):
-  - Zierer, Francis
+authors:
+  - "[[Zierer, Francis]]"
 URL: https://www.creatorspotlight.com/p/leigh-stein
-publication: "[[Creator Spotlight]]"
+publications:
+  - "[[Creator Spotlight]]"
 citation: Francis @ Creator Spotlight, “🔴 Leigh Stein,” Creator Spotlight, n.d., https://www.creatorspotlight.com/p/leigh-stein.
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 # writing vs content

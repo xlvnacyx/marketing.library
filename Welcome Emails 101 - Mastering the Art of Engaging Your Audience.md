@@ -1,14 +1,18 @@
 ---
-article card: true
+article: true
 category: article
 icon: LiNotepadText
 URL: https://blog.beehiiv.com/p/welcome-emails-for-creators
-author(s): 
-publication: "[[beehiiv Blog]]"
+authors:
+  - beehiiv staff
+publications:
+  - "[[beehiiv Blog]]"
 citation: "“Welcome Emails: Mastering the Art of Engaging Your Audience,” beehiiv Blog, October 4, 2023, https://blog.beehiiv.com/p/welcome-emails-for-creators"
 keywords:
   - welcome email
 tags:
+  - library
+  - article
 ---
 
 > [!quote]

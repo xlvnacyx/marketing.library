@@ -3,13 +3,16 @@ article: true
 category: article
 icon: LiNotepadText
 URL: https://workweek.com/2023/02/08/the-worst-part-of-media-businesses/
-author(s):
+authors:
   - "[[Ryan, Adam]]"
-publication: "[[Workweek]]"
+publications:
+  - "[[Workweek]]"
 date published: 2023-02-08
 citation: Ryan, Adam, “The Worst Part of Media Businesses,” Workweek, February 8, 2023, https://workweek.com/2023/02/08/the-worst-part-of-media-businesses/
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 Two main takeaways from this article:

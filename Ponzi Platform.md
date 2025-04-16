@@ -3,13 +3,16 @@ article: true
 category: article
 icon: LiNotepadText
 URL: https://workweek.com/2022/10/07/the-ponzi-platform/
-author(s):
+authors:
   - "[[Ryan, Adam]]"
-publication: "[[Workweek]]"
+publications:
+  - "[[Workweek]]"
 date published: 2025-04-10
 citation: Ryan, Adam, “The Ponzi Platform,” Workweek, October 7, 2022, https://workweek.com/2022/10/07/the-ponzi-platform/
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 The main idea is writers on Substack cannot rely solely on the platform’s recommendation feature for growth.

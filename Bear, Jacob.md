@@ -7,8 +7,15 @@ publications:
   - "[[beehiiv Blog]]"
 keywords: 
 tags:
+  - library
+  - author
 ---
 
 # articles
-[[8 Psychology-Backed Tips for Welcome Emails]] 
-[[7 Newsletter Templates to Inspire You]] 
+```dataview
+LIST
+FROM
+    #library 
+WHERE
+    contains(authors, [[Bear, Jacob]])
+```

@@ -7,9 +7,16 @@ publications:
   - "[[Workweek]]"
 keywords: 
 tags:
+  - library
+  - author
 ---
 
 # articles
-[[Perpetual - The Major Shift of Media]] 
-[[Ponzi Platform]] 
-[[Worst Part of Media Businesses]] 
+```dataview
+LIST
+FROM
+    #library 
+WHERE
+    contains(authors, [[Ryan, Adam]])
+```
+

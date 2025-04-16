@@ -1,14 +1,17 @@
 ---
-article card: true
+article: true
 category: article
 icon: LiNotepadText
 URL: https://www.pushtotalk.gg/p/what-can-aaa-games-marketers-learn-from-indies
-author(s):
-  - "[[Rigney, Ryan K.]]"
-publication: "[[Push-to-Talk]]"
+authors:
+  - "[[Rigney, Ryan K]]"
+publications:
+  - "[[Push-to-Talk]]"
 citation: Ryan K. Rigney, “What Can AAA Games Marketers Learn From Indies?,” Push to Talk (blog), March 7, 2025, https://www.pushtotalk.gg/p/what-can-aaa-games-marketers-learn-from-indies.
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 The big takeaway from this article, which is based on Derek Lieu’s “How to Hook the Audience and How Quickly to Do it,” are the “three principles I think big budget game devs could learn from indies like Derek Lieu” which I think can be applied to just about any marketing endeavor:

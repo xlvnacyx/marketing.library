@@ -1,9 +1,32 @@
 ---
 org: true
+category: newsletter
 icon: LiNewspaper
 homepage: https://dirt.fyi
-category: newsletter
+tags:
+  - library
+  - publication
+  - newsletter
+  - beehiiv
 ---
 
 # articles
-[[Marketing Difficulty]] 
+```dataview
+LIST
+FROM
+    #library AND
+    #article 
+WHERE
+    contains(publications, [[Dirt]])
+```
+
+# contributors
+```dataview
+LIST
+FROM
+    #library AND
+    #author 
+WHERE
+    contains(publications, [[Dirt]])
+```
+

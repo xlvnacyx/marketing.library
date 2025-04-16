@@ -7,8 +7,16 @@ publications:
   - "[[Creator Spotlight]]"
 keywords: 
 tags:
+  - library
+  - author
 ---
 
 # articles
-[[Best possible time to be a writer]] 
-[[Why this agency launched a creator collective]] 
+```dataview
+LIST
+FROM
+    #library 
+WHERE
+    contains(authors, [[Zierer, Francis]])
+```
+

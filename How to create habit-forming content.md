@@ -3,13 +3,15 @@ article: true
 category: article
 icon: LiNotepadText
 URL: https://www.newsletterexamples.co/p/how-to-create-habit-forming-content
-author(s):
+authors:
   - "[[Wolverton, Brad]]"
-publication: "[[Newsletter Examples]]"
+publications: "[[Newsletter Examples]]"
 date published: 2025-03-17
 citation: Wolverton, Brad, “How to create habit-forming content,” Newsletter Examples, March 17, 2025, https://www.newsletterexamples.co/p/how-to-create-habit-forming-content
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 AI is far becoming a tool to manage and summarize the emails arriving in our inboxes. In order to cut through the filters, your publication must be indispensable. This is part one of a four-part series on how to help create the habits in your readers that will keep your emails showing up as priority in their inbox.

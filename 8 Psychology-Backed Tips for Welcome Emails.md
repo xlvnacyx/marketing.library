@@ -3,13 +3,16 @@ article card: true
 icon: LiNotepadText
 category: article
 URL: https://blog.beehiiv.com/p/tips-for-welcome-emails
-author(s):
+authors:
   - "[[Bear, Jacob]]"
-publication: "[[beehiiv Blog]]"
+publications:
+  - "[[beehiiv Blog]]"
 citation: Bear, Jacob, “8 Psychology-Backed Tips for Welcome Emails,” beehiiv Blog, May 27, 2023, https://blog.beehiiv.com/p/tips-for-welcome-emails
 keywords:
   - welcome email
 tags:
+  - library
+  - article
 ---
 
 

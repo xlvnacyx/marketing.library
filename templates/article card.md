@@ -1,15 +1,19 @@
 ---
-article card: true
+article: true
 category: article
 icon: LiNotepadText
 URL: 
-author(s): 
-publication: 
+authors: 
+publications: 
 citation: 
 keywords: 
 tags:
+  - library
+  - article
 ---
 
-> [!abstract]- Document
-> [[]]
+
+
+
+
 

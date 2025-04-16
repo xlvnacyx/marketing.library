@@ -3,12 +3,15 @@ article card: true
 category: article
 icon: LiNotepadText
 URL: https://dirt.fyi/article/2025/03/laddermania
-author(s):
+authors:
   - "[[Majeed, Yasmin A]]"
-publication: "[[Dirt]]"
+publications:
+  - "[[Dirt]]"
 citation: Yasmin A. Majeed, “Laddermania,” The Dirtyverse, March 10, 2025, https://dirt.fyi/article/2025/03/laddermania
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 > [!quote]

@@ -2,9 +2,9 @@
 author: true
 icon: LiUserPen
 category: author
-URL: 
+URL: https://substack.com/@rkrigney
 publications:
-  - "[[beehiiv Blog]]"
+  - "[[Push-to-Talk]]"
 keywords: 
 tags:
   - library
@@ -17,5 +17,8 @@ LIST
 FROM
     #library 
 WHERE
-    contains(authors, [[Montgomery, Chad]])
+    contains(authors, [[Rigney, Ryan K]])
 ```
+
+
+

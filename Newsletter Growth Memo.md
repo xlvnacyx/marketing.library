@@ -1,13 +1,12 @@
 ---
-org: true
+publication: true
 category: newsletter
 icon: LiNewspaper
-homepage: https://www.creatorspotlight.com
+homepage: https://newslettergrowthmemo.beehiiv.com
 tags:
   - library
   - publication
   - newsletter
-  - beehiiv
 ---
 
 # articles
@@ -17,17 +16,15 @@ FROM
     #library AND
     #article 
 WHERE
-    contains(publications, [[Creator Spotlight]])
+    contains(publications, [[Newsletter Growth Memo]])
 ```
 
-# contributor
+# contributors
 ```dataview
 LIST
 FROM
     #library AND
-    #author 
+    #author  
 WHERE
-    contains(publications, [[Creator Spotlight]])
+    contains(publications, [[Newsletter Growth Memo]])
 ```
-
- 

@@ -1,10 +1,31 @@
 ---
 journal: true
+category: newsletter
 icon: LiNewspaper
 homepage: https://workweek.com
+tags:
+  - library
+  - publication
+  - newsletter
 ---
 
 # articles
-[[Perpetual - The Major Shift of Media]] 
-[[Ponzi Platform]] 
-[[Worst Part of Media Businesses]] 
+```dataview
+LIST
+FROM
+    #library AND
+    #article 
+WHERE
+    contains(publications, [[Workweek]])
+```
+
+# contributor
+```dataview
+LIST
+FROM
+    #library AND
+    #author 
+WHERE
+    contains(publications, [[Workweek]])
+```
+

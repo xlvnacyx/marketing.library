@@ -7,7 +7,15 @@ publications:
   - "[[Newsletter Examples]]"
 keywords: 
 tags:
+  - library
+  - author
 ---
 
 # articles
-[[How to create habit-forming content]] 
+```dataview
+LIST
+FROM
+    #library 
+WHERE
+    contains(authors, [[Wolverton, Brad]])
+```

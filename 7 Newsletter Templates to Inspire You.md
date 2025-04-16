@@ -3,13 +3,16 @@ article card: true
 category: article
 icon: LiNotepadText
 URL: https://blog.beehiiv.com/p/weekly-email-newsletter-templates
-author(s):
+authors:
   - "[[Bear, Jacob]]"
   - "[[Montgomery, Chad]]"
-publication: "[[beehiiv Blog]]"
+publications:
+  - "[[beehiiv Blog]]"
 citation: Bear, Jacob; Montgomery, Chad, “7 Newsletter Templates to Inspire You,” beehiiv Blog, January 14, 2023, https://blog.beehiiv.com/p/weekly-email-newsletter-templates
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 

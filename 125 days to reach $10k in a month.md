@@ -3,12 +3,15 @@ article card: true
 category: article
 icon: LiNotepadText
 URL: https://www.creatorspotlight.com/p/thomas-yeum
-author(s):
+authors:
   - "[[Zierer, Francis]]"
-publication: "[[Creator Spotlight]]"
+publications:
+  - "[[Creator Spotlight]]"
 citation: Zierer, Francis, “125 days to reach $10k/month,” Creator Spotlight, April 4, 2025, https://www.creatorspotlight.com/p/thomas-yeum
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 > [!quote]

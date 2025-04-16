@@ -1,10 +1,10 @@
 ---
 author: true
-icon: LiUserPen
 category: author
+icon: LiUserPen
 URL: 
 publications:
-  - "[[beehiiv Blog]]"
+  - "[[Newsletter Growth Memo]]"
 keywords: 
 tags:
   - library
@@ -17,5 +17,5 @@ LIST
 FROM
     #library 
 WHERE
-    contains(authors, [[Montgomery, Chad]])
+    contains(authors, [[May, Nathan]])
 ```

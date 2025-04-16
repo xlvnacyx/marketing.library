@@ -1,13 +1,14 @@
 ---
-paper card: true
+paper: true
 category: paper
 icon: LiFileText
-paper: 
-author(s): 
-publication: 
+authors: 
+publications: 
 citation: 
 keywords: 
 tags:
+  - library
+  - paper
 ---
 
 > [!abstract]- Document

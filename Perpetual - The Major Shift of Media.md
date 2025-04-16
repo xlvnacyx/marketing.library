@@ -3,12 +3,15 @@ article: true
 category: article
 icon: LiNotepadText
 URL: https://workweek.com/2025/03/06/perpetual-the-major-shift-of-media/
-author(s):
+authors:
   - "[[Ryan, Adam]]"
-publication: "[[Workweek]]"
+publications:
+  - "[[Workweek]]"
 citation: "Ryan, Adam, “Perpetual: The Major Shift of Media,” Workweek, March 6, 2025, https://workweek.com/2025/03/06/perpetual-the-major-shift-of-media/"
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 A few points to consider here:

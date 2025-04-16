@@ -1,8 +1,31 @@
+---
+sorting-spec: |
+  overview
+  guidelines
+  bibliography
+  with-metadata: book card
+  with-metadata: paper card
+  with-metadata: article card
+  %
+  with-metadata: org
+  with-metadata: author
+  assets
+  glossary
+  record
+  templates
+---
+
+# overview
+So far, this library is a collection of notes on newsletter articles revolving around marketing.
+# contents
+[[#overview]] 
+[[#LiLibrary library guidelines|library guidelines]] 
+[[#library content overview]] 
 
 # :LiLibrary: library guidelines
 
-# 1 nomenclature
-## library nomenclature
+## 1 nomenclature
+### library nomenclature
 The library has broad terms to encompass the content recorded within:
 
 > [!info]- ASSET
@@ -13,7 +36,7 @@ The library has broad terms to encompass the content recorded within:
 
 > [!info]- NOTES
 > Notes are descriptive markdown documents that are neither Cards nor Assests.
-## asset nomenclature
+### asset nomenclature
 Assets are further categorized according to particular nomenclature:
 
 > [!info]- BOOK
@@ -25,7 +48,7 @@ Assets are further categorized according to particular nomenclature:
 > [!info]- ARTICLE
 > Articles are exported or scanned documents of posts found online or in paper magazines and newspapers. These are different from academic papers.
 
-## frontmatter nomenclature
+### frontmatter nomenclature
 Regarding notes' frontmatter, some clarity on property names:
 
 > [!info]- CATEGORY
@@ -37,7 +60,7 @@ Regarding notes' frontmatter, some clarity on property names:
 > [!info]- KEYWORDS
 > Keywords operate much as tags would in systems outside of the library. These are oriented toward describing topical placement of assets.
 
-# 2 a single bibliography exists to enumerate all notes, cards, and assets in the library
+## 2 a single bibliography exists to enumerate all notes, cards, and assets in the library
 
 > [!attention] IMPORTANT
 > Every single asset that is included in the library must be accompanied by a citation. No exceptions.
@@ -48,7 +71,7 @@ The bibliography groups assets by category and lists them alphabetically. Citati
 > [[Myth of the Privacy Paradox]]:
 Solove, Daniel J., The Myth of the Privacy Paradox (January 29, 2021). 89 George Washington Law Review 1 (2021), GWU Legal Studies Research Paper No. 2020-10, GWU Law School Public Law Research Paper No. 2020-10, Available at SSRN: https://ssrn.com/abstract=3536265 or http://dx.doi.org/10.2139/ssrn.3536265 
 
-# 3 one note, one singular identifying piece of information
+## 3 one note, one singular identifying piece of information
 Each individual note enumerates a single piece of information:
 
 - Cards enumerate assets specifically. One card per asset.
@@ -58,24 +81,24 @@ Each individual note enumerates a single piece of information:
 
 Etc, etc. The idea is to maintain a strict scheme by which to confine the introduction of arbitrary and useless content.
 
-# 4 the glossary
-## the glossary is a single directory, one-level deep, at the root of the library.
+## 4 the glossary
+### the glossary is a single directory, one-level deep, at the root of the library.
 It contains all of the definitions arising from the reading.
-## if a vault has a glossary, it has a library.
+### if a vault has a glossary, it has a library.
 The glossary lives in the library, as most often, definitions will arise and be created out of the reading material.
-## one term per note
+### one term per note
 Per [[#3 one note, one singular identifying piece of information|one note, one piece of information]], each note included in the glossary is atomic and contains exactly one term. Terms may be linked to each other as a means of expressing relationships. Aliases may be included. The definition itself may be drafted to be an entire encyclopedia entry all on its own. Despite all of these possibilities, each note contains and defines one single term.
-# 5 assets management
-## assets belong in a single directory, one-level deep, at the root of the library
+## 5 assets management
+### assets belong in a single directory, one-level deep, at the root of the library
 This directory can be called whatever you want, but it is singular and contains no nested directories. All assets are included in this singular directory and organized by Card at the root of the library.
-## cards exist with the asset
+### cards exist with the asset
 When an asset is added to the library, a Card is created detailing the asset and placed in the root of the library, and an entry is made in the bibliography linked to the Card. When an asset is removed from the library, its companion card and bibliography entry are also removed.
-# 6 internal linkages only
+## 6 internal linkages only
 Anything within the library--assets, Cards, notes--may only link to each other and not to references outside the library. This makes the library self-contained and highly portable. When imported into a vault, notes in the vault outside of the library may link to items within the library, but items within the library may not link to items outside of it.
-# 7 vault concerns
-## templates
+## 7 vault concerns
+### templates
 The library has its own set of templates. If the library exists as a standalone unit within vault wrapper, the `templates`  directory may be made use of directly. If, however, the library is placed within the context of a larger vault, copy the library templates into the template directory of the vault and use accordingly.
-## plugins
+### plugins
 This is where things may get a little dicey. Plugins are great tools, but care must be made with regard to what tools are being implemented within the library. To keep the library highly portable, these plugins are currently in use and operate upon the library:
 
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) 
@@ -89,8 +112,26 @@ When importing a library into a vault, install these plugins first.
 
 This list may change at any time, and if so, all vaults will need to be adjusted accordingly, though this should not be subject to change often, and very much should not be arbitrarily affected.
 
-## themes
+### themes
 Do what you want.
 
-# conclusion
+## conclusion
 I think that's everything for now!
+
+# library content overview
+
+```dataview
+TABLE
+    authors AS Author,
+    publications AS Publication
+FROM
+    "marketing" AND
+    #library AND
+    !"marketing/templates" AND
+    !#publication AND
+    !#author
+SORT
+    authors asc
+```
+
+

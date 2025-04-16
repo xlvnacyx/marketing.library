@@ -3,12 +3,16 @@ article card: true
 icon: LiNotepadText
 category: article
 source: Blank
-publication: 
+publications:
+  - "[[Dirt]]"
 URL: https://dirt.fyi/article/2025/03/marketing-difficulty
-author(s): 
+authors:
+  - "[[Rainbow, Greta]]"
 citation: 
 keywords: 
 tags:
+  - library
+  - article
 ---
 
 > [!abstract]- Document

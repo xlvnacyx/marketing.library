@@ -3,10 +3,19 @@ author: true
 icon: LiUserPen
 category: author
 homepage: 
-publications: 
+publications:
+  - "[[Dirt]]"
 keywords: 
 tags:
+  - library
+  - author
 ---
 
 # articles
-[[Laddermania]] 
+```dataview
+LIST
+FROM
+    #library 
+WHERE
+    contains(authors, [[Majeed, Yasmin A]])
+```
