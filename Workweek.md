@@ -13,8 +13,9 @@ tags:
 ```dataview
 LIST
 FROM
+	"marketing" AND
     #library AND
-    #article 
+    !#author 
 WHERE
     contains(publications, [[Workweek]])
 ```
@@ -23,6 +24,7 @@ WHERE
 ```dataview
 LIST
 FROM
+	"marketing" AND
     #library AND
     #author 
 WHERE

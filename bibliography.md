@@ -49,11 +49,18 @@ Zierer, Francis, “Why this agency launched a creator collective,” Creator Sp
 Ryan, Adam, “The Worst Part of Media Businesses,” Workweek, February 8, 2023, https://workweek.com/2023/02/08/the-worst-part-of-media-businesses/
 ## # 
 
-[[125 days to reach $10k in a month]]:
-Zierer, Francis, “125 days to reach $10k/month,” Creator Spotlight, April 4, 2025, https://www.creatorspotlight.com/p/thomas-yeum
+[[5 Thoughts On Doing More With Less]] 
+Wallace, Tracey, “5 Thoughts On Doing More With Less,” Contentment, April 16, 2025.
 
 [[7 Newsletter Templates to Inspire You]]:
 Bear, Jacob; Montgomery, Chad, “7 Newsletter Templates to Inspire You,” beehiiv Blog, January 14, 2023, https://blog.beehiiv.com/p/weekly-email-newsletter-templates
 
 [[8 Psychology-Backed Tips for Welcome Emails]]:
-Bear, Jacob, “8 Psychology-Backed Tips for Welcome Emails,” beehiiv Blog, May 27, 2023, https://blog.beehiiv.com/p/tips-for-welcome-emails
+Bear, Jacob, “8 Psychology-Backed Tips for Welcome Emails,” beehiiv Blog, May 27, 2023, https://blog.beehiiv.com/p/tips-for-welcome-emails 
+
+[[100k+ Subscribers (How I’ll Get There in 2025)]] 
+McGarry, Matt, “100k+ subscribers (how I’ll get there in 2025’” Newsletter Operator, April 12, 2025, https://www.newsletteroperator.com/p/how-i-m-growing-my-email-list-to-100-000-subscribers-this-year 
+
+[[125 days to reach $10k in a month]] 
+Zierer, Francis, “125 days to reach $10k/month,” Creator Spotlight, April 4, 2025, https://www.creatorspotlight.com/p/thomas-yeum 
+
